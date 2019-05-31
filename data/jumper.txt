@@ -1,0 +1,3 @@
+name Adam Malysz
+weight 60
+skills 3.335091206705855

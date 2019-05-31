@@ -1,0 +1,6 @@
+run_on 0.01 -100 100
+landing_slope 0.0000104 -0.0073 1.186 40.8
+start_point 3
+middle_point 100
+end_point 350
+max_y 200
